@@ -3,7 +3,7 @@
 <body>
   <%
     double num = Math.random();
-    if (num > 0.95) {
+    if (num > 0.50) {
   %>
       <h2>You'll have a luck day!</h2><p>(<%= num %>)</p>
   <%
