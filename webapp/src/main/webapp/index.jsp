@@ -2,7 +2,7 @@
 <head><title>Hello JSP I am BACK!</title></head>
 <body>
   <%
-    double split = 0.50;
+    double split = 0.80;
     double num = Math.random();
     if (num > split) {
   %>
